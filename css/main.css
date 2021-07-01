@@ -1,0 +1,25 @@
+body {
+}
+
+.container {
+  display: inline-block;
+  width: 800px;
+}
+
+.left-column {
+  width: 40%;
+  float: left;
+  background-color: yellow;
+}
+
+.right-column {
+  width: 60%;
+  float: left;
+  background-color: violet;
+}
+
+.button {
+  display: inline-block;
+  background-color: red;
+  padding: 20px;
+}
